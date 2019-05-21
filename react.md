@@ -1,9 +1,9 @@
 # React
 
 commonjs与es6  
-react项目的搭建  
 jsx  
 什么是react  
+react项目的搭建  
 react和fish的区别  
 react组件  
 redux  
