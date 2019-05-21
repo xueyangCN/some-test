@@ -1,12 +1,12 @@
 # React
 
-commonjs与es6
-react项目的搭建
-jsx
-什么是react
-react和fish的区别
-react组件
-redux
+commonjs与es6  
+react项目的搭建  
+jsx  
+什么是react  
+react和fish的区别  
+react组件  
+redux  
 
 ## commonjs
 common通过require导入外部模块，通过module.exports输出模块
